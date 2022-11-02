@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adarsh Raj
-- 👀 I’m interested in Software Engineering, DBMS & AI/ML domain
-- 🌱 I’m currently learning Analytics tools & C++
+- 👀 I’m interested in Python, AI/ML, Football Analytics
+- 🌱 I’m currently learning about Version Control, Application of analytics in Football
 - 📫 Reach me at ada.raj@96@mgail.com
 
 
