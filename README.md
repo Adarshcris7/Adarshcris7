@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adarsh Raj
 - 👀 I’m interested in Python, AI/ML, Football Analytics
 - 🌱 I’m currently learning about Version Control, Application of analytics in Football
-- 📫 Reach me at ada.raj@96@mgail.com
+- 📫 Reach me at ada.raj96g@mail.com
 
 
 <!---
